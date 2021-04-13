@@ -4,10 +4,10 @@
 ### It is a method for designing a website using GitHub - text, images, and menus, usually with the extension .md
 
 ## For more information about [Markdown](https://rashaalkyeam.github.io/read/read1)
-| Content        | Link                             |
-| -------------- |:--------------------------------:|
-| Structure      | [Structure](read1)               |
-| Text           | [Text](read2)                    |
-| Images         | [Images](read3)                  |
-| List           | [List](read4)                    |
-| Version Control| [Version Control](read5)         |
+| Content  |    link       |
+|----------|:-------------:|
+|Structure|[link](read1) |
+| Text |[link](read2)|
+| Images  |[link](read3)|
+| List  |[link](read4)     |
+| Version Control  |[link]( read5)     |
