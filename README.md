@@ -5,9 +5,11 @@
 
 ## For more information about [Markdown](https://rashaalkyeam.github.io/read/read1)
 | Content  |    link       |
-|----------|:-------------:|
-|Structure|[link](read1) |
-| Text |[link](read2)|
-| Images  |[link](read3)|
-| List  |[link](read4)     |
-| Version Control  |[link]( read5)     |
+|----------| -------------|
+|Structure|[link](read1.md) |
+| Text |[link](read2.md)|
+| Images  |[link](read3.md)|
+| List  |[link](read4.md)     |
+| Version Control  |[link]( read5.md)     |
+| computer work  |[link](read6.md)     |
+| JavaScript  |[link]( read7.md)     |
