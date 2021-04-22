@@ -13,3 +13,4 @@
 | Version Control  |[link]( read5.md)     |
 | computer work  |[link](read6.md)     |
 | JavaScript  |[link]( read7.md)     |
+| Choosing A Text Editor  | [lnik](read0.md)
