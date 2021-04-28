@@ -17,5 +17,6 @@
 # Code 201 Reading Notes
 | Content  |    link       |
 |----------| -------------|
-|HTML | [link](class-01.md) |
+| HTML | [link](class-01.md) |
+| HTML Elements | [link](class-02.md)
 
