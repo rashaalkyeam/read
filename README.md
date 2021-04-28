@@ -19,4 +19,5 @@
 |----------| -------------|
 | HTML | [link](class-01.md) |
 | HTML Elements | [link](class-02.md)
+| HTML Element 2 | [link](class-03.md)|
 

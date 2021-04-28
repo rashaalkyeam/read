@@ -30,7 +30,8 @@
  <p>This is how we make a word appear <b>bold.</b>
  </p>
  ```
- ```<p>This is how we make a word appear <i>italic</i>.
+ ```
+ <p>This is how we make a word appear <i>italic</i>.
  </p>
  ```
  # CSS
