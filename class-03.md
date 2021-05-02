@@ -52,6 +52,7 @@ if(condition){
     code
 } //simple if
 ```
+```
 if (condition) { 
 code //condition if the reuslt true
 
@@ -59,6 +60,7 @@ code //condition if the reuslt true
 code //condition if the reuslt false
 }
 ```
+
 ## SWITCH STATEMENTS
 ```
 switch (condition) { 
@@ -75,4 +77,4 @@ default :
 code 
 break;
 }
-```
+````````````
