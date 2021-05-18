@@ -25,5 +25,7 @@
 |HTML Links| [link](class-06.md)
 |CSS Layout| [link](class-07.md)
 |Forms and JS Events| [link](class-08.md)
+|Chart.js, Canvas| [link](class-12.md)
+|Local Storage| [link](class13.md)
 
 
