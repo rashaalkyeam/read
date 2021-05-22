@@ -21,7 +21,8 @@
 | HTML Elements | [link](class-02.md)
 | HTML Element 2 | [link](class-03.md)|
 | JS | [link](class-04.md)|
-|oop| [link](class-05.md)
+|oop| [link](class-05.md)|
+|HTML Images; CSS Color & Text| [link](class-5.md)
 |HTML Links| [link](class-06.md)
 |CSS Layout| [link](class-07.md)
 |Forms and JS Events| [link](class-08.md)
