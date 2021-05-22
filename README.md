@@ -30,5 +30,6 @@
 |Chart.js, Canvas| [link](class-12.md)
 |Local Storage| [link](class13.md)
 |Transforms| [link](class-14a)
+|What Google Learned About Teams| [link](class-14لا)
 
 
