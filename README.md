@@ -22,16 +22,18 @@
 | HTML Element 2 | [link](class-03.md)|
 | JS | [link](class-04.md)|
 |oop| [link](class-05.md)|
-|HTML Images; CSS Color & Text| [link](class-5.md)
-|HTML Links| [link](class-06.md)
-|CSS Layout| [link](class-07.md)
-|Forms and JS Events| [link](class-08.md)
-|Audio, Video, Images| [link](class11.md)
-|Chart.js, Canvas| [link](class-12.md)
-|Local Storage| [link](class13.md)
-|Transforms| [link](class-14a)
-|What Google Learned About Teams| [link](class-14لا)
+|HTML Images; CSS Color & Text| [link](class-5.md)|
+|HTML Links| [link](class-06.md)|
+|CSS Layout| [link](class-07.md)|
+|Forms and JS Events| [link](class-08.md)|
+|Audio, Video, Images| [link](class11.md)|
+|Chart.js, Canvas| [link](class-12.md)|
+|Local Storage| [link](class13.md)|
+|Transforms| [link](class-14a)|
+|What Google Learned About Teams| [link](class-14.md)|
 
 
 ## Code 301 - Intermediate Software Development
+|Introduction to React and Components| [link](class01.md)|
+
 ## Code 401 - Advanced Software Development
