@@ -1,6 +1,6 @@
 # State and Props
 *  lifecycle events:  The methods that you are able to use on classes or functions.
-![State](pro.PNG)
+![state](pro.PNG)
 ## phases of the component lifecycle
 1. Mounting
 2. Updating
