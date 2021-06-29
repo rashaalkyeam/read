@@ -36,5 +36,6 @@
 ## Code 301 - Intermediate Software Development
 |Introduction to React and Components| [link](class01.md)|
 |State and Props| [link](class02.md)|
+|Functions as Props & Spread Operator| [link](class03.md)|
 
 ## Code 401 - Advanced Software Development
