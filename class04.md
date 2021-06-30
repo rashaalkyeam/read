@@ -22,3 +22,19 @@
 ## The most important operations that can be done in a form:
 - Handling Multiple Inputs
 - Controlled Input Null Value
+
+# The Conditional (Ternary) Operator Explained
+### Why would we use a ternary operator?
+- used when assigning post data or validating forms
+
+### Rewrite the following statement using a ternary statement:
+```
+  if(x===y){
+ console.log(true);
+  } else {
+ console.log(false);
+  }
+  ```
+  ```
+x===y? 'true': 'false)';
+```
